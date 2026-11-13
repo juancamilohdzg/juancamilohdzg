@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**juancamilohdzg/juancamilohdzg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Encabezado con animación de terminal Red Team -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=650&lines=root%40redteam%3A~%23+.%2Fexploit+--target+juancamilohdzg;Bypassing+firewall+%26+escalating+privileges...;Root+access+granted.+Welcome+to+the+mainframe." alt="Typing SVG" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+     ██╗██╗   ██╗ █████╗ ███╗   ██╗     ██████╗ ███████╗██╗   ██╗
+     ██║██║   ██║██╔══██╗████╗  ██║     ██╔══██╗██╔════╝██║   ██║
+     ██║██║   ██║███████║██╔██╗ ██║     ██║  ██║█████╗  ██║   ██║
+██   ██║██║   ██║██╔══██║██║╚██╗██║     ██║  ██║██╔══╝  ╚██╗ ██╔╝
+╚█████╔╝╚██████╔╝██║  ██║██║ ╚████║     ██████╔╝███████╗ ╚████╔╝ 
+ ╚════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝     ╚═════╝ ╚══════╝  ╚═══╝

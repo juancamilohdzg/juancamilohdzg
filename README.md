@@ -12,3 +12,11 @@
 ██   ██║██║   ██║██╔══██║██║╚██╗██║██║     ██╔══██║██║╚██╔╝██║██║██║     ██║   ██║██╔══██║██║  ██║ ███╔╝  ██║   ██║
 ╚█████╔╝╚██████╔╝██║  ██║██║ ╚████║╚██████╗██║  ██║██║ ╚═╝ ██║██║███████╗╚██████╔╝██║  ██║██████╔╝███████╗╚██████╔╝
  ╚════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝ ╚═════╝
+
+<div align="center">
+
+| `[ OS & KERNEL ]` | `[ CLOUD & BACKEND ]` | `[ DATA & TOOLS ]` |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=linux,arch,bash&theme=dark" /> | <img src="https://skillicons.dev/icons?i=aws,python,flask&theme=dark" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github&theme=dark" /> |
+
+</div>
